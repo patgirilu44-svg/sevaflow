@@ -1,0 +1,13 @@
+tablename,tableowner,tablespace,hasindexes,hasrules,hastriggers,rowsecurity
+appointments,postgres,null,true,false,true,true
+blocked_slots,postgres,null,true,false,true,true
+credit_scores,postgres,null,true,false,true,true
+customers,postgres,null,true,false,true,true
+error_logs,postgres,null,true,false,false,true
+master_prices,postgres,null,true,false,true,true
+message_dedup,postgres,null,true,false,false,true
+price_history,postgres,null,true,false,true,true
+rate_limits,postgres,null,true,false,true,true
+reminders_sent,postgres,null,true,false,true,true
+shadow_ledger,postgres,null,true,false,true,true
+tenants,postgres,null,true,false,true,true
